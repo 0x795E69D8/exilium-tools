@@ -3,3 +3,9 @@
 # -------------------------
 *.o
 *.exe
+
+# -------------------------
+# game update tracker
+# -------------------------
+/game_update_tracker/instance_states
+/game_update_tracker/reports
