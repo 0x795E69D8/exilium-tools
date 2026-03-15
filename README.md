@@ -8,4 +8,6 @@ This repository contains tools for the game _Girls' Frontline 2: Exilium_.
 
 [Game Update Tracker](game_update_tracker) - Generate HTML reports about game updates
 
+[Audio Extractor](audio_extractor) - Extract audio tracks and loop metadata from ACB/AWB audio files
+
 [Subtitle Extractor](subtitle_extractor) - Extract subtitle tracks from USM video files
